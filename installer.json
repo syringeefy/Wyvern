@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "release_zip_url": "https://github.com/syringeefy/xenith/releases/download/xenith/v1.0.4.zip",
+  "sha256": "49233BC6FD3FB3AC79531FF123884EDF187D04AE497DF213D020EA884F01EE62",
+  "files": [
+    {"name": "libcurl.dll"},
+    {"name": "VMProtectSDK64.dll"},
+    {"name": "xenith.exe"},
+    {"name": "zlib1.dll"}
+  ],
+  "prerequisites": {
+    "windows_version_min": "10.0.19041",
+    "vc_redist": {
+      "required": true,
+      "url": "https://aka.ms/vs/17/release/vc_redist.x64.exe"
+    }
+  }
+}
