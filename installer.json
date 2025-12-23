@@ -5,7 +5,7 @@
   "files": [
     {"name": "libcurl.dll"},
     {"name": "VMProtectSDK64.dll"},
-    {"name": "xenith.exe"},
+    {"name": "wyvern.exe"},
     {"name": "zlib1.dll"}
   ],
   "prerequisites": {
