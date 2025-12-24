@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "release_zip_url": "https://github.com/syringeefy/Wyvern/releases/download/wyvern/v1.0.1.zip",
-  "sha256": "2D1AB3DFAFF201FF893E0D4E9E82708EEB8667754CA541A52D70602AE9F8A24F",
+  "sha256": "5294D2282CB287A14DF839AABA8FC07A0F3EF6A0BD3062A6704ED34311746BA8",
   "files": [
     {"name": "libcurl.dll"},
     {"name": "VMProtectSDK64.dll"},
