@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "release_zip_url": "https://github.com/syringeefy/Wyvern/releases/download/wyvern/v1.0.2.zip",
+  "release_zip_url": "https://github.com/syringeefy/Wyvern/releases/download/new/build.zip",
   "sha256": "172C7C9FCE7BF2E7DD603DA808FF3285220A98D76580B52477E29D3571FC8D72",
   "files": [
     {"name": "libcurl.dll"},
